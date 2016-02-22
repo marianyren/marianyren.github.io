@@ -1,0 +1,61 @@
+*{
+  box-sizing: border-box ;  
+}
+body {
+    font-family: Helvetica, Arial, Sans-serif;    
+}
+
+header {
+    padding: 10px; 
+   float: left;
+   width: 100%;
+    position: fixed;
+    border: dashed black;
+
+    font-weight: normal;
+        font-size: 15em;
+        font-family: Helvetica;
+        text-align: center;
+        line-height: 120% ;
+        letter-spacing: 10px ;
+}
+
+.container {
+    margin-top: 100px;
+    width: 50%;
+   
+    float: left;
+    font-weight: lighter;
+        font-size: 2em;
+        font-family: Verdana;
+        text-align: left;
+        line-height: 120% ;
+        letter-spacing: 40px ;
+}
+
+nav{
+    width: 20%;
+    float: left;
+   
+
+}
+
+div.content {
+    float: right;
+    width: 50%;
+    margin-left: 100px;
+   
+
+}
+
+footer {
+    margin-top: 105px;
+    padding-top: 50px;
+    clear: both;
+     position: bottom;
+    border: double black;
+    line-height: 120% ;
+    font-weight: bold;
+
+}
+
