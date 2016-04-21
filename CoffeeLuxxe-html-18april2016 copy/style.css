@@ -58,6 +58,7 @@ header img{
 }
 
 nav{
+    font-family: "proxima-nova", Helvetica, Arial, Sans-serif; 
     width: 90%;
     margin: auto;
     padding: 10px;
