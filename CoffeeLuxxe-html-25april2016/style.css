@@ -210,6 +210,14 @@ nav a:active {
    padding-right: 35px;
    width: 35%;
 }
+
+.intouch strong {
+	color: #846850;
+	text-decoration: underline;
+	font-weight: lighter;
+	letter-spacing: 120%;
+
+}
  
 
  
@@ -222,11 +230,12 @@ footer {
     font-weight: lighter;
     font-size: 0.8em;
     background-color: #baa897;
-    line-height: 110%;
+    line-height: 120%;
     float: left;
     clear: both;
     width: 100%;
-    line-height: 125%;
+    color: white;
+
 }
 
 
